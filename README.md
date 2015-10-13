@@ -1,4 +1,4 @@
 # hello-world
 The first repository
 
-Firdt commit change
+First commit change
